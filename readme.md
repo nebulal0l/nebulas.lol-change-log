@@ -1,5 +1,5 @@
 # nebulas.lol - changelog
-change log
+small bugs / fixs / updates will not be put here.
  
 ## [bug fix] - 2024-5-24
  
